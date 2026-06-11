@@ -59,6 +59,12 @@ http://127.0.0.1:5002
 
 ---
 
+## 📸 Screenshots
+
+![FAQ Chatbot](screenshots/Screenshot%202026-06-11%20at%205.54.51AM.png)
+
+---
+
 ## 💡 Topics Covered in FAQ
 - Artificial Intelligence
 - Machine Learning & Deep Learning
